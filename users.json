@@ -1,0 +1,96 @@
+{
+  "7559896475": {
+    "role": "admin",
+    "permissions": [
+      "workshop",
+      "logs",
+      "akb_add",
+      "akb"
+    ],
+    "name": "Василь"
+  },
+  "682498549": {
+    "role": "admin",
+    "permissions": [
+      "akb_add",
+      "akb",
+      "logs",
+      "salary",
+      "akb_reports",
+      "akb_export"
+    ],
+    "name": "Максим"
+  },
+  "1311994130": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Акаунт"
+  },
+  "6554336317": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Олег"
+  },
+  "339788686": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Alex"
+  },
+  "6516682107": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Артур"
+  },
+  "5579355563": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Kolya F"
+  },
+  "862427096": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Sergei"
+  },
+  "1433634359": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "Александр"
+  },
+  "502001284": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "502001284"
+  },
+  "1237538218": {
+    "role": "user",
+    "permissions": [
+      "logs",
+      "workshop"
+    ],
+    "name": "1237538218"
+  }
+}

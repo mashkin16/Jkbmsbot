@@ -1,0 +1,71 @@
+{
+  "575590315": {
+    "rate": 2160,
+    "records": [
+      {
+        "id": "5ded436b",
+        "type": "bonus",
+        "amount": 6600,
+        "comment": "за 3 акб і не правильно пораховані 12акб ставку..",
+        "date": "19.05.2026 17:10",
+        "by": "Максим",
+        "confirmed": true,
+        "confirmed_at": "19.05.2026 21:48"
+      },
+      {
+        "id": "0bd8be2d",
+        "type": "advance",
+        "amount": 21570,
+        "comment": "аванс за травень",
+        "date": "19.05.2026 17:12",
+        "by": "Максим",
+        "confirmed": true,
+        "confirmed_at": "19.05.2026 20:31"
+      },
+      {
+        "id": "78925673",
+        "type": "pay",
+        "amount": 10830,
+        "comment": "відрахування за квітень",
+        "date": "19.05.2026 17:17",
+        "by": "Максим",
+        "confirmed": true,
+        "confirmed_at": "19.05.2026 20:31"
+      },
+      {
+        "id": "50088595",
+        "type": "fine",
+        "amount": 120,
+        "comment": "",
+        "date": "19.05.2026 21:49",
+        "by": "Kaatastroffaa",
+        "confirmed": true,
+        "confirmed_at": "19.05.2026 21:49"
+      }
+    ]
+  },
+  "5579355563": {
+    "rate": 2150,
+    "records": []
+  },
+  "339788686": {
+    "rate": 2150,
+    "records": []
+  },
+  "862427096": {
+    "rate": 2150,
+    "records": []
+  },
+  "6516682107": {
+    "rate": 2150,
+    "records": []
+  },
+  "7559896475": {
+    "rate": 2150,
+    "records": []
+  },
+  "534411717": {
+    "rate": 2150,
+    "records": []
+  }
+}

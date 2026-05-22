@@ -1,0 +1,136 @@
+{
+  "34137": {
+    "bms_number": "34137",
+    "date": "20.04.2026 14:10",
+    "status": "перероблено",
+    "comment": "Хт папа підгорів контакт",
+    "photos": [
+      {
+        "file_id": "AgACAgIAAxkBAAIBRmnmCbiHweg4w0kzBgKlLuRG3-9xAAIVFGsbnfIwSwgLqbcIkTT1AQADAgADeQADOwQ",
+        "date": "20.04.2026 14:10"
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAIIhWnpzBONnhIdZ55-0Aqdrxgmzo8UAALDFGsbSPNRS_TwolNFIEjZAQADAgADeQADOwQ",
+        "date": "23.04.2026 10:36"
+      }
+    ]
+  },
+  "34545": {
+    "bms_number": "34545",
+    "date": "20.04.2026 15:27",
+    "status": "брак бмс",
+    "comment": "Виправлено",
+    "photos": [
+      {
+        "file_id": "AgACAgIAAxkBAAIBWmnmG5eGG1gjAtgihmsnlxWZHzKwAAL3FGsbnfIwS8sC6QcREH8qAQADAgADeQADOwQ",
+        "date": "20.04.2026 15:27"
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAIImWnpzG8ZgQ7vs7PIBONv3f-kmc76AALGFGsbSPNRS_ACldROjQ1GAQADAgADeQADOwQ",
+        "date": "23.04.2026 10:38"
+      }
+    ]
+  },
+  "34153": {
+    "bms_number": "34153",
+    "date": "23.04.2026 10:30",
+    "status": "справний",
+    "comment": "Ні",
+    "photos": [
+      {
+        "file_id": "AgACAgIAAxkBAAIIaGnpypsmWs1gXBt0Y3k6z3sWA_j7AAKtFGsbtmVQS6vihTCw4RCaAQADAgADeQADOwQ",
+        "date": "23.04.2026 10:30"
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAIIj2npzDreJiGbJHixF5X940YPhQP5AALFFGsbSPNRS_WzusLJpSzwAQADAgADeQADOwQ",
+        "date": "23.04.2026 10:37"
+      }
+    ]
+  },
+  "34346": {
+    "bms_number": "34346",
+    "date": "23.04.2026 10:38",
+    "status": "так",
+    "comment": "Справний",
+    "photos": [
+      {
+        "file_id": "AgACAgIAAxkBAAIIo2npzIlhJbP-UuAz73TzwiM_zvetAALHFGsbSPNRSy8-xNXacHCMAQADAgADeQADOwQ",
+        "date": "23.04.2026 10:38"
+      }
+    ]
+  },
+  "32249": {
+    "bms_number": "32249",
+    "date": "23.04.2026 10:39",
+    "status": "у розробці",
+    "comment": "Так",
+    "photos": [
+      {
+        "file_id": "AgACAgIAAxkBAAIIs2npzNANFOjxt8-0Q6MNM0d84y5KAALLFGsbSPNRS_TRPN98BcQYAQADAgADeQADOwQ",
+        "date": "23.04.2026 10:39"
+      }
+    ]
+  },
+  "34383": {
+    "bms_number": "34383",
+    "date": "23.04.2026 11:19",
+    "status": "справний",
+    "comment": "Новий",
+    "photos": [
+      {
+        "file_id": "AgACAgIAAxkBAAII12np1iFAeILxtAAB65vTXZKaFf90IAACAhVrG0jzUUszDXHGIwABQagBAAMCAAN5AAM7BA",
+        "date": "23.04.2026 11:19"
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAII4Wnp1lz4RsZAu9uL4-KVlD8xMI_6AAIEFWsbSPNRSw75uzdO9NaUAQADAgADeQADOwQ",
+        "date": "23.04.2026 11:20"
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAIJVGnqEzqifKvZ5Sg0ySUMDCVRKhlJAAIrF2sbtmVQSwTIocaeczOwAQADAgADeQADOwQ",
+        "date": "23.04.2026 15:40"
+      }
+    ]
+  },
+  "12345": {
+    "bms_number": "12345",
+    "date": "26.04.2026 18:00",
+    "status": "справний",
+    "comment": "Нема",
+    "history": [
+      {
+        "date": "26.04.2026 18:00",
+        "status": "справний",
+        "comment": "Нема",
+        "photos": [
+          {
+            "file_id": "AgACAgIAAxkBAAIZdmnuKHCeiiDmMYGIS3nY7WqQ_91OAAJfF2sbKuJpSyq7lzDrdQWGAQADAgADeQADOwQ",
+            "date": "26.04.2026 18:00"
+          }
+        ],
+        "user": "Василь",
+        "user_id": 7559896475
+      }
+    ]
+  },
+  "02052": {
+    "bms_number": "02052",
+    "date": "27.04.2026 21:37",
+    "status": "справний",
+    "comment": "У розробці",
+    "history": [
+      {
+        "date": "27.04.2026 21:37",
+        "status": "справний",
+        "comment": "У розробці",
+        "photos": [
+          {
+            "file_id": "AgACAgIAAxkBAAIhi2nvrNat-fBAQ0nx3Kt2zNGzeYu5AAI4E2sb86-BS4JoMwTbEu9GAQADAgADeQADOwQ",
+            "date": "27.04.2026 21:37"
+          }
+        ],
+        "user": "Василь",
+        "user_id": 7559896475
+      }
+    ]
+  }
+}

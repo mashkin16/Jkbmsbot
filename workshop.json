@@ -1,0 +1,3219 @@
+{
+  "12234": {
+    "akb_num": "12234",
+    "stages": []
+  },
+  "64829": {
+    "akb_num": "64829",
+    "stages": []
+  },
+  "11177": {
+    "akb_num": "11177",
+    "stages": []
+  },
+  "01820": {
+    "akb_num": "01820",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 10:30",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIeLGnvEJJEjvsgHh6-Bq9NkNCizFj2AAJyE2sbEuF5Szb4TeCoNtgiAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIeKmnvEGaQKqZodTzNcVxPcZUwJtzhAAJxE2sbEuF5S9b20nUNohlwAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIeLGnvEJJEjvsgHh6-Bq9NkNCizFj2AAJyE2sbEuF5Szb4TeCoNtgiAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "27.04.2026 13:57",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIf1WnvQS0e1hnO2r9I3ZjT7towJ5GrAALlFGsbEuF5S-3vSVU6-bbUAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "28.04.2026 21:53",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIi4GnxAhXeD0UN8vZ5HDa_y6e3U-knAAL2GWsbJCCBS8CyR-bxVksFAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "28.04.2026 22:00",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIjC2nxA4FqxhNs2HXP5jHhbZORq-yNAAL9EGsb0OaQS_lKrPy2c4KDAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAIjIGnxA7UfPbWG1HjqK2asbbS-YZ0LAAMRaxvQ5pBL4Q7DAUYHhicBAAMCAAN3AAM7BA",
+        "photo2": "AgACAgIAAxkBAAIjC2nxA4FqxhNs2HXP5jHhbZORq-yNAAL9EGsb0OaQS_lKrPy2c4KDAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "30.04.2026 13:05",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIk82nzKXYLnnHOeqvotGUfOFEnIzquAALZNGsb8juYS8LL8p2eTc5JAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Готовий АКБ",
+        "date": "02.05.2026 09:39",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAInBGn1nC2Rh8dnD0EaA_n6FL8J0j_6AALuFGsb8tuoSzKr0sMeyNQVAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "7️⃣ Готовий АКБ",
+        "date": "05.05.2026 11:37",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIxX2n5rC6zxJ_xv257XSovIPLk1rxdAAIGF2sbVJjRS_zBe7Vj1HVDAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "10.05.2026 18:34",
+        "user": "God",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJJn2oAAaT2oBBUbGuhQaBPruu4472HugAC3ZgAAp2TAUgrcszGq9WrhjsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "01874": {
+    "akb_num": "01874",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 10:33",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIePGnvEV4qbC4lUivp68LnuPp-VYqRAAJ4E2sbEuF5S2z8dd3hoMHZAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIeN2nvERNa_ML4pXZyNDAqjrcWFPflAAJ1E2sbEuF5S0XO9e7uNY4kAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIePGnvEV4qbC4lUivp68LnuPp-VYqRAAJ4E2sbEuF5S2z8dd3hoMHZAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "27.04.2026 13:55",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIfxWnvQJgz_uJzJrdls0WiRmkHasOBAALjFGsbEuF5SxVU1UQnIDEbAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "28.04.2026 21:57",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIi6GnxAjBkoLgYF2LShd9S3zGe8fGJAAJiF2sb0OaIS-S9VTgYE3LPAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "30.04.2026 12:47",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIkwmnzJR8O4ya8zynefpHdLP_2nNQ6AAKtNGsb8juYS7OqIJo5F73PAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIkwGnzJRhpmnjGTqFJUUrnINRQpJgWAAKsNGsb8juYS3oTGIFHtsc0AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIkwmnzJR8O4ya8zynefpHdLP_2nNQ6AAKtNGsb8juYS7OqIJo5F73PAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "30.04.2026 13:06",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIk_GnzKY4Gvn194l2vGoax_ZvWfBOUAALaNGsb8juYSydfuvtWklCMAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Готовий АКБ",
+        "date": "02.05.2026 09:40",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAInDmn1nF42KjM0PebeDxsSuOIzxznoAALxFGsb8tuoSxyTkWFqR4BqAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "7️⃣ Готовий АКБ",
+        "date": "05.05.2026 11:38",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIxaWn5rHMW3RGlmDwZoJ1vSPD5YLCEAAIKF2sbVJjRS5_perngBPs4AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "10.05.2026 18:34",
+        "user": "God",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJJn2oAAaT2oBBUbGuhQaBPruu4472HugAC3ZgAAp2TAUgrcszGq9WrhjsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "01828": {
+    "akb_num": "01828",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 10:38",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIeVmnvEpGmL5XlPBeOaCkxdccb3FKTAAJ8E2sbEuF5S4UKa3vDk1e_AQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIeVGnvEjTXXnEVKYtTIlMcLWZZqb_wAAJ5E2sbEuF5S5fAg4X86HHEAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIeVmnvEpGmL5XlPBeOaCkxdccb3FKTAAJ8E2sbEuF5S4UKa3vDk1e_AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "27.04.2026 13:59",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIf32nvQYlv6dBCuwIMyrWAvJIiV_0vAALoFGsbEuF5S_klZ9ddamuJAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "28.04.2026 21:59",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIi6GnxAjBkoLgYF2LShd9S3zGe8fGJAAJiF2sb0OaIS-S9VTgYE3LPAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "30.04.2026 12:48",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIkzmnzJXNGV-sdGehaZEtLD1uGm86nAAKwNGsb8juYS4FCuYyggyH9AQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIkzGnzJW0nyvRQ_TGIdVupVTGMPf0qAAKvNGsb8juYSzGLB-ounAdzAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIkzmnzJXNGV-sdGehaZEtLD1uGm86nAAKwNGsb8juYS4FCuYyggyH9AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "30.04.2026 13:06",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIlBWnzKaKi3Uk-tAvfkS5464SnnggrAALbNGsb8juYSy0PH3a0R5BzAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Готовий АКБ",
+        "date": "02.05.2026 09:41",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAInGGn1nI9gU9PfBzjl8qVympNdqdUBAAL0FGsb8tuoS_cg4qSBkVvRAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "7️⃣ Готовий АКБ",
+        "date": "05.05.2026 11:39",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIxfWn5rMde-KeyN2MsEE0f1Gtdv9zkAAIRF2sbVJjRS44mYfonYgiNAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "10.05.2026 18:33",
+        "user": "God",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJJn2oAAaT2oBBUbGuhQaBPruu4472HugAC3ZgAAp2TAUgrcszGq9WrhjsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "01811": {
+    "akb_num": "01811",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 10:48",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIeaGnvFMGFrVDI2mI3trbDuGOB6LZkAAKKE2sbEuF5S_zE4AJDfif0AQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIeZmnvFHBwQthinRMi5zjcJWlHLu-lAAKHE2sbEuF5S1OUvJwZBTMOAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIeaGnvFMGFrVDI2mI3trbDuGOB6LZkAAKKE2sbEuF5S_zE4AJDfif0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "27.04.2026 13:54",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIfvGnvQHg8dGFzusfYojD105EludgEAALgFGsbEuF5S1w8lJFQK1iYAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "28.04.2026 21:59",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIi4GnxAhXeD0UN8vZ5HDa_y6e3U-knAAL2GWsbJCCBS8CyR-bxVksFAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "30.04.2026 12:49",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIk2WnzJZCbYie_p6VC3_InQIt-ad0XAAKyNGsb8juYS2AqOX8rTd4UAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIk12nzJYnstCm6txxGuN3pw1fcbpfAAAKxNGsb8juYS-kp3F6s9YHhAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIk2WnzJZCbYie_p6VC3_InQIt-ad0XAAKyNGsb8juYS2AqOX8rTd4UAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "30.04.2026 13:06",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIlDmnzKbfgdLXn__SWWrVPrfKs9cn-AALcNGsb8juYSyxRnPmwWe1vAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Готовий АКБ",
+        "date": "02.05.2026 09:41",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAInKWn1nLFT7nXDR-7dXxHlHgaw7ZeuAAL2FGsb8tuoS9guFAK6puvkAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "7️⃣ Готовий АКБ",
+        "date": "05.05.2026 11:38",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIxc2n5rJ_QEVCsvksZlIYjP4KquxU0AAINF2sbVJjRS4jkXbnpuLmiAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "10.05.2026 18:33",
+        "user": "God",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJJn2oAAaT2oBBUbGuhQaBPruu4472HugAC3ZgAAp2TAUgrcszGq9WrhjsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "02052": {
+    "akb_num": "02052",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 21:44",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAIhi2nvrNat-fBAQ0nx3Kt2zNGzeYu5AAI4E2sb86-BS4JoMwTbEu9GAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIhuGnvrnJ3mG-yilSHZr948CFYYBlRAAI9E2sb86-BS151p11phAnaAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIhi2nvrNat-fBAQ0nx3Kt2zNGzeYu5AAI4E2sb86-BS4JoMwTbEu9GAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 00:32",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJm4GoM1tjfuzHBMELL7Zcv0Fd-WvO1AAIoGmsb4ymoSy37gK7n_qlmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "20.05.2026 00:32",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJm4GoM1tjfuzHBMELL7Zcv0Fd-WvO1AAIoGmsb4ymoSy37gK7n_qlmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "20.05.2026 00:33",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJm72oM1zP96iJIh25idmiZdFCAeB3RAAIUIGsbud1hSImyRcOZZbwcAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 00:34",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJm72oM1zP96iJIh25idmiZdFCAeB3RAAIUIGsbud1hSImyRcOZZbwcAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "20.05.2026 00:35",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "video": "BAACAgIAAxkBAAJm_GoM17GbveVTgO3HpaerqGMIRjRtAAKomQACud1hSG5P8IlBbsf2OwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "01851": {
+    "akb_num": "01851",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 21:45",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAIhx2nvrsXkCYcylvZL_N1kjy_gYTL-AAI_E2sb86-BSwWHTknJ1DdRAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIhxWnvrrrLgJiqJcjFoVicHvx7j_X3AAI-E2sb86-BS_U5QTxyjfEcAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIhx2nvrsXkCYcylvZL_N1kjy_gYTL-AAI_E2sb86-BSwWHTknJ1DdRAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 00:37",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJnEmoM2A1FiBIinAAByNc97iluIPKx1wACJxprG-MpqEtik6ta7QABwvoBAAMCAAN5AAM7BA"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "20.05.2026 00:37",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJnEmoM2A1FiBIinAAByNc97iluIPKx1wACJxprG-MpqEtik6ta7QABwvoBAAMCAAN5AAM7BA"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "20.05.2026 00:38",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJnCmoM199tb4jS8lHq-TsFd8GLXzuLAAIVIGsbud1hSAzcTaNIYVb6AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 00:39",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJnCmoM199tb4jS8lHq-TsFd8GLXzuLAAIVIGsbud1hSAzcTaNIYVb6AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "20.05.2026 00:39",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "video": "BAACAgIAAxkBAAJm_GoM17GbveVTgO3HpaerqGMIRjRtAAKomQACud1hSG5P8IlBbsf2OwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "01671": {
+    "akb_num": "01671",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 21:48",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAIh4mnvr316TR_ZJGCVnYWgyDD5nImkAAJEE2sb86-BS2WpJJ0XYConAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIh1GnvrvZqfNzxdDWDwJcIAqTAXvogAAJBE2sb86-BS2a-mYU7dag8AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIh4mnvr316TR_ZJGCVnYWgyDD5nImkAAJEE2sb86-BS2WpJJ0XYConAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 00:40",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJnP2oM2OGMdv6JOi1O6_DlhEs8R5VzAAIqGmsb4ymoSwqnbWEKnffwAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01816": {
+    "akb_num": "01816",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "27.04.2026 21:49",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAIh9Wnvr7VjR_IrnJnmdLgmFWEaGlAeAAJIE2sb86-BS9zY8y9H-gH0AQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIh9Gnvr7V9pr8dTSjfSbN0HrvnHByhAAJHE2sb86-BS4he1oZ-caOuAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIh9Wnvr7VjR_IrnJnmdLgmFWEaGlAeAAJIE2sb86-BS9zY8y9H-gH0AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "02239": {
+    "akb_num": "02239",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "04.05.2026 09:41",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIwomn4P4cn1KEGOPFyf6wvGjMcFtivAALPFGsbVJjBS1j4vgZsnM3WAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIwoGn4P18moNmgHOgHLPxYZ9XTiI4nAALNFGsbVJjBS9e2TGuzAq5cAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIwomn4P4cn1KEGOPFyf6wvGjMcFtivAALPFGsbVJjBS1j4vgZsnM3WAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "04.05.2026 13:00",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIw0mn4bjGQpNtQnadqdQqdyOZAipedAAIJFmsbVJjBS3Dqc0YWdkz6AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "07.05.2026 09:51",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6Cmn8NmTcG83X72Te1AdZ9QxNxQ1IAAKKF2sb1ZzhS8aLOFucy1X8AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "07.05.2026 17:37",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6Tmn8o6XBfxmW6bUj4tHXpOlShE-nAAIlHWsb1ZzpS9e9vPYAAbSgcwEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "07.05.2026 17:38",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6Zmn8o_u05j77b-KmDc7SgauSnTuNAAIsHWsb1ZzpS2DbQTBsrtULAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "08.05.2026 17:17",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI9gGn98HlhSMa_PS6XMB0cs-j8XfsMAAJyFWsbmFrwSw09Du4-C1cmAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "09.05.2026 20:14",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI9gGn98HlhSMa_PS6XMB0cs-j8XfsMAAJyFWsbmFrwSw09Du4-C1cmAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "02249": {
+    "akb_num": "02249",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "04.05.2026 09:44",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIwr2n4QE2v3728dLG1TaB1VdfHqG9sAALWFGsbVJjBS6SGBHfT5QajAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIwrWn4QDBWPYWZOFUvxYtQrKpUDj5MAALVFGsbVJjBS5K7zN3DkQ9GAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIwr2n4QE2v3728dLG1TaB1VdfHqG9sAALWFGsbVJjBS6SGBHfT5QajAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "07.05.2026 17:39",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6cWn8pBYpcSeXvnWpqncGpxTXw81bAAIvHWsb1ZzpS62DwL9-CltiAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "07.05.2026 17:41",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6fGn8pGE1eXlaTthyGkQgc3d5O7d4AAIyHWsb1ZzpSxC7nXiUkspbAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "09.05.2026 08:04",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI8x2n9aOklSrYOOV1jhzHt6s4nr3VkAAKNF2sb1ZzhS4F0Afr8L_7qAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "09.05.2026 08:04",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI9rGn98OiCjqZUzwEyUNrGDEVUVnkkAAJzFWsbmFrwS2K0cURlOrYRAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "09.05.2026 20:15",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI9rGn98OiCjqZUzwEyUNrGDEVUVnkkAAJzFWsbmFrwS2K0cURlOrYRAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "02481": {
+    "akb_num": "02481",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "04.05.2026 09:46",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIwvGn4QNGGFuwFgx6uKC7-LQgc1FVbAALZFGsbVJjBS0ziFEx5pYf4AQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAIwumn4QLfOvbQbekAOZHHnMc4kbCh7AALYFGsbVJjBS3NzBz9Wl59JAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIwvGn4QNGGFuwFgx6uKC7-LQgc1FVbAALZFGsbVJjBS0ziFEx5pYf4AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "04.05.2026 13:00",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIw22n4bk8KHuJ-m0YeTBGbWj20ISsfAAIKFmsbVJjBSyxn69FKv39WAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "07.05.2026 09:52",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6I2n8NqZcM5CTuD53IEcmRl98heaKAAKOF2sb1ZzhS9yuck2d8s-dAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "07.05.2026 17:41",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6h2n8pKhRsxogbk7LiHRmxDBYjQe1AAI5HWsb1ZzpS-Nh812NqhV0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "07.05.2026 17:42",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6lGn8pOwDaPo6Km4tyUXMT3cVmMnZAAI_HWsb1ZzpS4v7GLBmXlWYAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "09.05.2026 20:16",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI_M2n_a-BCBpCL8z_VQRt951cYkXbWAAJ0FWsbmFrwSyw2cm3xYCvnAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "10.05.2026 18:32",
+        "user": "God",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJJn2oAAaT2oBBUbGuhQaBPruu4472HugAC3ZgAAp2TAUgrcszGq9WrhjsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "02496": {
+    "akb_num": "02496",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "04.05.2026 09:49",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAIwyWn4QWVtu4qtvlladwlcttcv5i-gAALcFGsbVJjBSwABMEtvFVlKGQEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAIwx2n4QUM8sSkEm26tUSWRrsxIN3eIAALbFGsbVJjBS2Lf0BghXsH4AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAIwyWn4QWVtu4qtvlladwlcttcv5i-gAALcFGsbVJjBSwABMEtvFVlKGQEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "07.05.2026 17:43",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6n2n8pP-2PUBhdSpAz-nmnFqxpE8DAAJCHWsb1ZzpS5t9-bJQuRx2AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "07.05.2026 17:43",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI6qmn8pRiS8Wu9oXKrKKFUdavFGbz4AAJEHWsb1ZzpS39z_gFmk19JAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "09.05.2026 20:16",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAI_PWn_a_Y-FDyhEbVAwtPM8kcvWdEJAAJxFWsbmFrwSzFdeF1vg9NpAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "10.05.2026 18:21",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJJjWoAAaJ8nj80xdvfbkb4UoG1MkWCwAACHRZrG52TAUj2qJY8qqyEZgEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "10.05.2026 18:32",
+        "user": "God",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJJn2oAAaT2oBBUbGuhQaBPruu4472HugAC3ZgAAp2TAUgrcszGq9WrhjsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "55565": {
+    "akb_num": "55565",
+    "stages": []
+  },
+  "66666": {
+    "akb_num": "66666",
+    "stages": []
+  },
+  "12213": {
+    "akb_num": "12213",
+    "stages": []
+  },
+  "01341": {
+    "akb_num": "01341",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 00:59",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLLmoAAf9fGrIPe5syZ7QpE_-tAYSZyQACPxRrG5WFCUgCd_3qkq6owwEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAJLLWoAAf9fxMnHagX9Eu2FngHvYdkxxgACPhRrG5WFCUhEXx6eLx9cjAEAAwIAA3kAAzsE",
+        "photo2": "AgACAgIAAxkBAAJLLmoAAf9fGrIPe5syZ7QpE_-tAYSZyQACPxRrG5WFCUgCd_3qkq6owwEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "11.05.2026 01:01",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLS2oAAf_5QeGuGoSpe_9U5IPi-YkUrgACGRhrG8RV8EvlL5X2ZIUNQAEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "11.05.2026 01:04",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLUWoBAAFvDJDijoXzclr_eC_E3k1XLQACHRhrG8RV8Eu9-bV-29lb6wEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "11.05.2026 01:05",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLYGoBAQKBjwykFiiThP31v7OKtfJnAAJCFGsblYUJSPkyeJuiPfTCAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "11.05.2026 01:06",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLaGoBAUKZVX8kBubkNPtlFsZPxblCAAJDFGsblYUJSEj8Kfg7hYz8AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01376": {
+    "akb_num": "01376",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 01:10",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLjGoBAmQMiM7vmd0xTrZUzSi1ShnqAAJGFGsblYUJSGcpFZ0zqrILAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJLi2oBAmT0ianKIr5Lon6wFGF9qu01AAJFFGsblYUJSNj6YbOENJwlAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJLjGoBAmQMiM7vmd0xTrZUzSi1ShnqAAJGFGsblYUJSGcpFZ0zqrILAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "11.05.2026 01:11",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLk2oBAnxp24XSA7tFyqZI-_CX8Rm6AAJHFGsblYUJSJesDOeK5dO9AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "11.05.2026 01:11",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLUWoBAAFvDJDijoXzclr_eC_E3k1XLQACHRhrG8RV8Eu9-bV-29lb6wEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "11.05.2026 01:12",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLoWoBArWRmaetHDkGzQHdY_vKYNObAAJIFGsblYUJSHkOOTGrNY0WAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "11.05.2026 01:12",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJLp2oBAsj-z_tGVaxp3uoB_VVJaiL4AAIbGGsbxFXwSzzxLdt2O2D6AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "02344": {
+    "akb_num": "02344",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 08:57",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJMEGoBbsORFRcWHCiFj6PDx7XA7Ee_AAKQE2sbemERSFE75fygBYXUAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMFGoBbvlN_fvxOY60uxquttUJh04aAAKRE2sbemERSPBJGwiqE15IAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMEGoBbsORFRcWHCiFj6PDx7XA7Ee_AAKQE2sbemERSFE75fygBYXUAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:41",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJVVWoFfIRUXDrBKNl_s3n6kCp2PtvVAAKrFGsbT2gxSOtR-XZJVJXzAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:44",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJViGoFfWi4z0paDB8I8rTtFsCAUBECAAK-FGsbT2gxSP_HJn46-Ph0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:07",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJWsmoGuCwXgeMhzwa0m6ZI2RTdBHCPAAJVFGsbwUowSPtg6PJSMJRbAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 09:27",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJnhWoNVFaFmYMT6ZGx_fvCfiBb8j8OAAJmF2sbGVBpSPI13NXjTmUmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "20.05.2026 09:28",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "video": "BAACAgIAAxkBAAJnk2oNVIUh3IinIC3owY_wdi-sdElaAAIznAACGVBpSJlSeMwa9zkyOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "02345": {
+    "akb_num": "02345",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 08:55",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJMGGoBb1tR5qa1S3LQH2jeEOJe2vXGAAJOFGsbnZMJSP0wT6ujQnLlAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMEmoBbuE5tF7x_-Ec-d1JNlxoUuUEAAJLFGsbnZMJSMFjGUrf3X8iAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMGGoBb1tR5qa1S3LQH2jeEOJe2vXGAAJOFGsbnZMJSP0wT6ujQnLlAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "13.05.2026 17:22",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJRzGoEiQLoOFEs5oH4l1jMmUcCNzJeAALxFmsbkgkhSJBkUTe-hcHtAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "13.05.2026 17:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR92oEiXHrcFvRccBxKgcQ5NqbXG_NAAL2FmsbkgkhSNVOSQld9BjmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:06",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJWqGoGt83d3G9FtYrQ3Pmlty9_PBi1AAIuFWsbi9gwSLjhhQvxvVGUAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 11:55",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJXR2oG33jZV4KkUMtGuh-MI7r47YtXAAILFmsbi9gwSG3NfjRpvi3lAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 11:57",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJXUmoG3-ieBXz0GtnPc6Cjimmbk_abAAIWnQACi9gwSEcI96ic4uf_OwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "02755": {
+    "akb_num": "02755",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:01",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJMUGoBcMj4sFH4tSI8rQstPaDXu0CJAAJSFGsbnZMJSAKyFgABzSk0cAEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAJMRGoBcGdmSV6KiVqrFdoaw2MLw6ehAAJQFGsbnZMJSHGNsP2k8gJrAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMUGoBcMj4sFH4tSI8rQstPaDXu0CJAAJSFGsbnZMJSAKyFgABzSk0cAEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "13.05.2026 17:22",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR2GoEiSRUkWm9IZ01-EdPBnE7Vnl6AALyFmsbkgkhSGNSAAHwaE3ayQEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "13.05.2026 17:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR92oEiXHrcFvRccBxKgcQ5NqbXG_NAAL2FmsbkgkhSNVOSQld9BjmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:12",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJW5GoGuV_eKH0qIk2DHvkiPKeWjBVuAAJBFWsbi9gwSJhYjxrztIUtAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 11:58",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJXXmoG4BxDrY-7DUB0YFpf4nkaFLeOAAINFmsbi9gwSJ5ht4E2kmE4AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 11:59",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJXaWoG4GkPBteNysGjJhdI-7F9aF-YAAIgnQACi9gwSKFbvi8EwajJOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "00108": {
+    "akb_num": "00108",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:02",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJMWGoBcOKfmSQVgz-ZHaAR_IYvzuo2AAKdE2sbemERSNOJgSUrbfJHAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMTGoBcJM0IFlh--ql5RdqiH1u1LPPAAKbE2sbemERSF2IoXlaPY8HAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMWGoBcOKfmSQVgz-ZHaAR_IYvzuo2AAKdE2sbemERSNOJgSUrbfJHAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:43",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJVamoFfQcGuX2O0P3gydGYn5o4HerfAAKvFGsbT2gxSApBBUCMtYAUAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:44",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJViGoFfWi4z0paDB8I8rTtFsCAUBECAAK-FGsbT2gxSP_HJn46-Ph0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:08",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJWvGoGuFiGjlei4Im0GEB-JZwfZy14AAJWFGsbwUowSNPqeGRIrQxvAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 09:28",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJnpWoNVKc0zA05kKhq_PCHJfO32aCPAAJpF2sbGVBpSBBett0DejMXAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "20.05.2026 09:29",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "video": "BAACAgIAAxkBAAJnm2oNVJEhXYNwlfkIGBqcoeC5X5xXAAI0nAACGVBpSKlVNacQoCWEOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "01686": {
+    "akb_num": "01686",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:04",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJMZGoBcVQBF7dYWGdcqgkizL9sc9WVAALNEmsbIb8RSNNJ_v9Dqj3BAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMTmoBcJjo4VjBE057Lrg71jmMqoFnAALHEmsbIb8RSKtyCK7Bj7YzAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMZGoBcVQBF7dYWGdcqgkizL9sc9WVAALNEmsbIb8RSNNJ_v9Dqj3BAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:23",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVGGoFeFx0Vor4Vn1aER4ebReJUu_KAAIgF2sbHLMwSOZUqDk83kEtAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:25",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVRGoFeOOHn7FnboF-_BidDorcH5U_AAIkF2sbHLMwSOpSGK2XF-JDAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:19",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJW_moGuul0TMx2XfOZvpRDll0jmEp-AAI4F2sbFZMxSHLiCUK_mzN_AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 16:28",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJYQWoHH2tMsEnTxQWLhbCVvlv014qVAALFFmsbFZM5SHX7pp9GalA-AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 16:41",
+        "user": "Alex",
+        "user_id": 339788686,
+        "video": "BAACAgIAAxkBAAJYaGoHIo-7oG_JPLX94_VGmm9HIoRyAAL1oAACFZM5SF1eAAH67fXSijsE",
+        "checklist": {}
+      }
+    ]
+  },
+  "01921": {
+    "akb_num": "01921",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:04",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJMcmoBcXpdQWxRZYAAAd8jlR6P56K1NgACVBRrG52TCUjvpW8UD3uEmQEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAJMYmoBcU2okd26LrXgnje_7y5NDyFQAAJTFGsbnZMJSBB_U4FXn011AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMcmoBcXpdQWxRZYAAAd8jlR6P56K1NgACVBRrG52TCUjvpW8UD3uEmQEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "13.05.2026 17:23",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR4moEiTuhSf37uLLkw4n928Ydv4M6AAL0FmsbkgkhSEYXvi7odZ7EAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "13.05.2026 17:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR92oEiXHrcFvRccBxKgcQ5NqbXG_NAAL2FmsbkgkhSNVOSQld9BjmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:09",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJW2GoGuJx_kQNUjdig31jb9Kbd7DTzAAI-FWsbi9gwSEVjNbMmD7HtAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 11:52",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJXMGoG3siUY9k7nmRg5VQoRDf7JByrAAIJFmsbi9gwSE4rqJPUmVphAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 11:53",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJXO2oG3xi4-5GFpZnhxRH7KZDWp3ucAAIMnQACi9gwSOgzr8qiNOmiOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "01281": {
+    "akb_num": "01281",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:05",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJMhmoBcZn5MQVCVio8fgj_uxDS-s7iAAKiE2sbemERSCKqKsm2by4cAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMdGoBcXqssahw1cv4veaxX-HvZwuXAAKgE2sbemERSFF-tt69ELG-AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMhmoBcZn5MQVCVio8fgj_uxDS-s7iAAKiE2sbemERSCKqKsm2by4cAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:43",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJVdGoFfS0bIMgZHXYMNXqWSJTbqmBcAAKwFGsbT2gxSHuDe-h99jGXAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:44",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJViGoFfWi4z0paDB8I8rTtFsCAUBECAAK-FGsbT2gxSP_HJn46-Ph0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:08",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJWxmoGuHF6MQPQfEoO3wMklPdzZIS8AAJYFGsbwUowSJhwWNIwTk8vAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 09:29",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJnvGoNVMalMMnn3afTPTsegnQkfEN_AAJqF2sbGVBpSHVwSR0-chLbAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "20.05.2026 09:29",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "video": "BAACAgIAAxkBAAJnm2oNVJEhXYNwlfkIGBqcoeC5X5xXAAI0nAACGVBpSKlVNacQoCWEOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "00807": {
+    "akb_num": "00807",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:08",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJMumoBclznNwU9FIc1mEorq1PfYiCFAAKxE2sbemERSBSD5OxhxDfTAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMsmoBcisUnhsTvK-4qQfNxxMb4Q3sAAKoE2sbemERSGNKKJ9M_vTnAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMumoBclznNwU9FIc1mEorq1PfYiCFAAKxE2sbemERSBSD5OxhxDfTAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:44",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJVVGoFfEMqtiHTGC3T_Dvcq33jSLguAAKnFGsbT2gxSKhSG5k6-e9oAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:44",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJViGoFfWi4z0paDB8I8rTtFsCAUBECAAK-FGsbT2gxSP_HJn46-Ph0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:09",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJW0GoGuI2hpamu6HQZcJ_quBuRlkroAAJZFGsbwUowSP-vgzXHh29tAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 09:29",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJn02oNVOAm7mHLNPZyVhxkDuYHYcPOAAJrF2sbGVBpSBYjIrRYTB3ZAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "20.05.2026 09:30",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "video": "BAACAgIAAxkBAAJnm2oNVJEhXYNwlfkIGBqcoeC5X5xXAAI0nAACGVBpSKlVNacQoCWEOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "02526": {
+    "akb_num": "02526",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:10",
+        "user": "God",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJMxGoBcutIfvV2o2c8XYG-FYttAtqRAAJ3FGsbnZMJSIco8ajL7jYIAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJMvGoBcl1V4fYVOYJsjSeNTFSYvpcUAAJ0FGsbnZMJSHgcC476CK1eAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJMxGoBcutIfvV2o2c8XYG-FYttAtqRAAJ3FGsbnZMJSIco8ajL7jYIAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "13.05.2026 17:23",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR8WoEiV9pxJZuWr3sHXRiLfnw6bEzAAL1FmsbkgkhSLJNsIbLg68jAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "13.05.2026 17:23",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJR92oEiXHrcFvRccBxKgcQ5NqbXG_NAAL2FmsbkgkhSNVOSQld9BjmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:14",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJW7moGud7qv7wIGFC5l4VuaAQ1Z3CMAAJEFWsbi9gwSNotKRzPqyuLAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 12:01",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJXdWoG4QERxv08L0nXAl560b-JB5pLAAIQFmsbi9gwSENmxuYQC9QsAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 12:03",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "video": "BAACAgIAAxkBAAJXfmoG4UsPwfjqqbKrMVOFjcoI3v7TAAIonQACi9gwSPKAwmiLvxcqOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "00987": {
+    "akb_num": "00987",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:16",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJM1GoBdE38KlVM3SqM6dbYJCEwz5VPAALXEmsbIb8RSHMXEjtzwsRtAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJM0moBdBisCF6Z9-Iw69ysQqPcefySAALVEmsbIb8RSB263U5oXJBYAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJM1GoBdE38KlVM3SqM6dbYJCEwz5VPAALXEmsbIb8RSHMXEjtzwsRtAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:24",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVJWoFeJiXlZRFB5Hh5eg4ZLjOBVUIAAIhF2sbHLMwSOHy0r8nm3tSAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:25",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVRGoFeOOHn7FnboF-_BidDorcH5U_AAIkF2sbHLMwSOpSGK2XF-JDAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:22",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJXCGoGu6glP-e4vWDaZtUouE6LpNf4AAI9F2sbFZMxSI2zzVcMl2Z2AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 16:28",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJYS2oHH5LQWIE7JtDbkE6fZZaPBI0hAALGFmsbFZM5SDKNZuD6D7fmAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 16:42",
+        "user": "Alex",
+        "user_id": 339788686,
+        "video": "BAACAgIAAxkBAAJYc2oHIrG3IYDNBk1zzYlodq-rXMa_AAL2oAACFZM5SPqpn794F5OYOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "02756": {
+    "akb_num": "02756",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:20",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJM5GoBdUpAVIf9nfO6kL2kMbEdOXWZAALfEmsbIb8RSE9bwHr9gZcxAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJM4moBdReiYXc5nqgyVWVDAQMPZN__AALeEmsbIb8RSG_OmPxO-RYRAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJM5GoBdUpAVIf9nfO6kL2kMbEdOXWZAALfEmsbIb8RSE9bwHr9gZcxAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:24",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVLWoFeKgfUXLe-n8sgVrKFHv2QApuAAIiF2sbHLMwSEbHW41sMSw_AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:25",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVRGoFeOOHn7FnboF-_BidDorcH5U_AAIkF2sbHLMwSOpSGK2XF-JDAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:30",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJXHWoGvaFslHPkZ_zYEZyTpLPKui6nAAJGF2sbFZMxSP-0KFxD50CLAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 16:29",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJYVWoHH6NLsGWhMKuzoi5B7JCxisWSAALHFmsbFZM5SJe9BHKZbk5vAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 16:42",
+        "user": "Alex",
+        "user_id": 339788686,
+        "video": "BAACAgIAAxkBAAJYfmoHItJdQKWp2qHIBWKEvxK5OqO7AAL3oAACFZM5SKQ8ubQnjj1JOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "01609": {
+    "akb_num": "01609",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "11.05.2026 09:26",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJM9GoBdn7LpsDZ7dlBEwnMVetfRXTcAALnEmsbIb8RSJTB1Xfqd5rBAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJM8moBdg6cBBIjjPHq9CHVEBMHUnJjAALlEmsbIb8RSA14eGkIZGu3AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJM9GoBdn7LpsDZ7dlBEwnMVetfRXTcAALnEmsbIb8RSJTB1Xfqd5rBAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 10:24",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVOmoFeMl-KtSBOmIz5JBsCUNh4aBiAAIjF2sbHLMwSO7hTfgBEVgrAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 10:25",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJVRGoFeOOHn7FnboF-_BidDorcH5U_AAIkF2sbHLMwSOpSGK2XF-JDAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "15.05.2026 09:26",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJXEGoGvHZuPwIeQ5lJr9__g_a_Ht_iAAJBF2sbFZMxSHOWxZDk2YEzAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "15.05.2026 16:29",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJYX2oHH7YJzr4ISKZscOJPeixwAAHZdAACyBZrGxWTOUgqVjLVJPqGawEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "15.05.2026 16:43",
+        "user": "Alex",
+        "user_id": 339788686,
+        "video": "BAACAgIAAxkBAAJYiWoHIvF53nm0U8k08KNII6VcARU_AAL6oAACFZM5SAkFXBmfNQSbOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "00658": {
+    "akb_num": "00658",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 17:59",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJPomoDQFYttI_XBj4MFM6sVOg4i3PPAAJ8FGsbKEAgSBCI6gOfny6wAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJPoWoDQFaXMFwIjs6x4ALmKtltMzuNAAJ7FGsbKEAgSBDvJHqyE9STAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJPomoDQFYttI_XBj4MFM6sVOg4i3PPAAJ8FGsbKEAgSBCI6gOfny6wAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 18:57",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJWdWoF8PC21DdBwunoz-iFFBmYLLIRAALCGmsbeygxSNOdpaIu8ntbAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:32",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJglmoLPwXR0x0PJYJE2alB-p1JLA9nAAJPHmsbzCBZSLC2YnlCMelaAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:38",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgnmoLQGkwQIPShhnm2xgVoAABygABlbIAAlIeaxvMIFlINcLANl1bg3sBAAMCAAN3AAM7BA"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "20.05.2026 21:49",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJofmoOAkAy0KahZFEEkE5_XgpvcgLvAAKMHWsbG7VwSMKRcKFr7j1nAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "00979": {
+    "akb_num": "00979",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:02",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJPtmoDQQ6eOrXHb2hXGW6qSvo6FP2oAAKxFGsbKEAgSGjwE8LLxTOhAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJPtWoDQQ4dKst1LwghSRkK9-hfgPxfAAKwFGsbKEAgSFJaLKj1TXUJAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJPtmoDQQ6eOrXHb2hXGW6qSvo6FP2oAAKxFGsbKEAgSGjwE8LLxTOhAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 18:54",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJe9moLNjGAgM-PPCZzdOO74EtQdnE6AAIDHmsbzCBZSE5EH-LE3rbiAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:33",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJglmoLPwXR0x0PJYJE2alB-p1JLA9nAAJPHmsbzCBZSLC2YnlCMelaAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:39",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgqGoLQMliHo7iDU5dp92Y9288FCxtAAJVHmsbzCBZSLIamHqplnEjAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:02",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJpaWoOrgQ9TqfSHKdRQHQDJRjo8hGHAAKQGWsbG7V4SLHfiDDnwN-_AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01151": {
+    "akb_num": "01151",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:04",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJPxmoDQWSWEVtnuhncXqkPMLu5HbO2AAK1FGsbKEAgSOScWBIjDlVJAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJPxWoDQWR0KYaD5yEPXjULaogeQsLIAAK0FGsbKEAgSBCzhn2qhoblAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJPxmoDQWSWEVtnuhncXqkPMLu5HbO2AAK1FGsbKEAgSOScWBIjDlVJAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 18:55",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJe_moLNlvmsC54bIl_vqmDqiDLaHzvAAIKHmsbzCBZSHCPf07tMhE4AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:33",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJglmoLPwXR0x0PJYJE2alB-p1JLA9nAAJPHmsbzCBZSLC2YnlCMelaAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:40",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgsmoLQPcbK38gdMtv5BbN9KoQcbF2AAJWHmsbzCBZSPt071bUcGmvAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:06",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJpmmoOrxAR8q5VPuE9BxpOo1voBisuAAKeGWsbG7V4SPkfvRvXi4RXAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00982": {
+    "akb_num": "00982",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:06",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJP1moDQeaN0zYRWiE2cLy_hSbpLn6bAAK3FGsbKEAgSL_vlBg6GeY6AQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJP1WoDQeZ9Tj14ucjGVljbvk4YFwspAAK2FGsbKEAgSIfCZ8lre5lMAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJP1moDQeaN0zYRWiE2cLy_hSbpLn6bAAK3FGsbKEAgSL_vlBg6GeY6AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 18:56",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfC2oLNpon7vDUI3tudju-wy0Uok9AAAIPHmsbzCBZSAJsz-n6mcTIAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:33",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJglmoLPwXR0x0PJYJE2alB-p1JLA9nAAJPHmsbzCBZSLC2YnlCMelaAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:41",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgvGoLQTy1gwPUARaw92sHFok_Mbx7AAJYHmsbzCBZSKXRoqt81xJAAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:07",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJppmoOr0a79QPPydS5a4OlPCET-F0XAAKfGWsbG7V4SIYzGCSOi7DfAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01978": {
+    "akb_num": "01978",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:08",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJP5moDQmbYDBEd7ALzjbNrAmi8vRfEAAK6FGsbKEAgSHZaO22DQv6bAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJP5WoDQmZGfI5gazxjER_t8dS3K1r3AAK5FGsbKEAgSAfkCiwUu26sAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJP5moDQmbYDBEd7ALzjbNrAmi8vRfEAAK6FGsbKEAgSHZaO22DQv6bAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 18:58",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfFWoLNyVNhRNJiS3x3aNqbCXHNfLZAAITHmsbzCBZSHISZhCWY_DgAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:42",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgxmoLQXObz29MyrAIeq9RaPDedkoYAAJZHmsbzCBZSJok8rxIBVoQAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:43",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgzmoLQcqY8eHqEykhUmla84e9DAlEAAJfHmsbzCBZSALJ__DBl1VtAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:10",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJpsGoOr8IrKzf-9ild8Bd0pS-HyBMMAAKlGWsbG7V4SCr36vvlwi4zAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00659": {
+    "akb_num": "00659",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:09",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJP9moDQqmP6IQgBh0ThOFeiblfWROJAAK9FGsbKEAgSLJU3kJ5JnHQAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJP9WoDQqkWhOWPEYmV_STSt7RIfqp3AAK8FGsbKEAgSCIRfQNrL450AQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJP9moDQqmP6IQgBh0ThOFeiblfWROJAAK9FGsbKEAgSLJU3kJ5JnHQAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:00",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfKGoLN4LscoUUFY5dOGxCBg4HhMvaAAIUHmsbzCBZSJkrXVv6hY9fAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:43",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgxmoLQXObz29MyrAIeq9RaPDedkoYAAJZHmsbzCBZSJok8rxIBVoQAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:44",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJg2moLQetZD2fKdUrSQkTPsnhSkO6aAAJgHmsbzCBZSFdwzb911knXAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:10",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJpumoOr_z9bXRAjA3qGY4d3oDnp1-eAAKpGWsbG7V4SIuyMk3d82GNAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00793": {
+    "akb_num": "00793",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:10",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQBmoDQwABxCeYpfd05jCS9H0ULfSp6gACwBRrGyhAIEhgvzSmKn4nOgEAAwIAA3cAAzsE",
+        "photo1": "AgACAgIAAxkBAAJQBWoDQwABnTIQ8onE913jAwp2wJKMugACvxRrGyhAIEhgI8CWY8HmAQEAAwIAA3cAAzsE",
+        "photo2": "AgACAgIAAxkBAAJQBmoDQwABxCeYpfd05jCS9H0ULfSp6gACwBRrGyhAIEhgvzSmKn4nOgEAAwIAA3cAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:01",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfOGoLN9seytALJZXXnaip6AeRd5aEAAIWHmsbzCBZSA73CJkSw7UJAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:43",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgxmoLQXObz29MyrAIeq9RaPDedkoYAAJZHmsbzCBZSJok8rxIBVoQAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:44",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJg5moLQgpmWYZsXiDrEGrqcXB84SIWAAJhHmsbzCBZSLgSOpwZdHe7AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:11",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJpxGoOsBjoLlbrAuFYvPzDK4Wzzrd8AAKrGWsbG7V4SKQ1ceNe7I_YAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01143": {
+    "akb_num": "01143",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:13",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQIGoDQ3vpDmy7tpo_gKmST-vMHo70AALGFGsbKEAgSP2seeeR7VjlAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQH2oDQ3ta7N2ZG_FQWeWROK2KNVbPAALFFGsbKEAgSLHar-Kf-wfVAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQIGoDQ3vpDmy7tpo_gKmST-vMHo70AALGFGsbKEAgSP2seeeR7VjlAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:01",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfRGoLN-2odKoIVl0idlMHud0--XIMAAIXHmsbzCBZSFcUewigBsZ3AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:43",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgxmoLQXObz29MyrAIeq9RaPDedkoYAAJZHmsbzCBZSJok8rxIBVoQAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:45",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJg8moLQiIb4z2_EG1B2jvygY9DHmO0AAJjHmsbzCBZSBLLuXv1Tn5UAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:12",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJpzmoOsEwPqBAhxMwIZ4epPnbZ9xlgAAKuGWsbG7V4SOels2ZNXJNZAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00660": {
+    "akb_num": "00660",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:14",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQMmoDQ-E8MkQjEI14sA6l4w5PI82kAALTFGsbKEAgSFwDNFv-rAABIwEAAwIAA3cAAzsE",
+        "photo1": "AgACAgIAAxkBAAJQMWoDQ-G3jzbbTEGHl1yLE-zs2XHSAALSFGsbKEAgSBsVc0TZsk-tAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQMmoDQ-E8MkQjEI14sA6l4w5PI82kAALTFGsbKEAgSFwDNFv-rAABIwEAAwIAA3cAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:05",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfUGoLOMa3OQ5SSNviVD2ZUbM43EbLAAIbHmsbzCBZSPuQc0v5S3XnAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:46",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhAAFqC0JhF-EZhAABBwnPE7TT2qzmHXAAAmQeaxvMIFlIq3WJQeAj0DcBAAMCAAN5AAM7BA"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:47",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhCGoLQqUJGsyY_vzYvVSZaJ4AAVX_WQACZh5rG8wgWUhwx1bo3pc-SwEAAwIAA3cAAzsE"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:14",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJp2GoOsOZMDoLr7e6iWPZXRbxnzg0eAAKwGWsbG7V4SLbIOlCHqhG0AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01965": {
+    "akb_num": "01965",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:30",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQTGoDR4vavhfhDNg99uFaU78fjJeUAAIKFWsbKEAgSLLFwz-0b0K7AQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQS2oDR4tzNe29_hBK2tSaZ8fXdcs2AAIJFWsbKEAgSOyDmVAL0tUnAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQTGoDR4vavhfhDNg99uFaU78fjJeUAAIKFWsbKEAgSLLFwz-0b0K7AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:05",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfXGoLON_TUZcr8-13PJUxPLt07bUXAAIcHmsbzCBZSBY3zEBjEUhyAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:47",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhAAFqC0JhF-EZhAABBwnPE7TT2qzmHXAAAmQeaxvMIFlIq3WJQeAj0DcBAAMCAAN5AAM7BA"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:48",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhHGoLQuFdd6n89T-c98eDzX8gGqF0AAJoHmsbzCBZSMXVvxNCPOEoAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:15",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJp4moOsR64i6-P6yYyC7_lok2VjXvcAAKxGWsbG7V4SAJ4YjRpfZJYAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00978": {
+    "akb_num": "00978",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:33",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQXGoDSDRxwlgpOzmTDuwdT_B1nu92AAIVFWsbKEAgSN8vUVgdvcKjAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQW2oDSDSyyTWGBgXriq30EYKG9qLJAAIUFWsbKEAgSKgvZ5cJWRYNAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQXGoDSDRxwlgpOzmTDuwdT_B1nu92AAIVFWsbKEAgSN8vUVgdvcKjAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:07",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfamoLOTezMnAmx-PUi3mHwB0ZRITYAAIdHmsbzCBZSL-D5iNGAeMgAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:48",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhAAFqC0JhF-EZhAABBwnPE7TT2qzmHXAAAmQeaxvMIFlIq3WJQeAj0DcBAAMCAAN5AAM7BA"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:49",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhMmoLQw1U0hYmMuqfsfGIrSyDLxEqAAJpHmsbzCBZSMWBllHaEXd1AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:16",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJp7GoOsVwK2hxf_7BEvQ8xYHeFIi28AAKyGWsbG7V4SJWGwMCAY8ZPAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01983": {
+    "akb_num": "01983",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:34",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQeGoDSJAvpkSEoySFfiqBex0_IWdOAAIYFWsbKEAgSMZdKKfzuu2PAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQd2oDSJBpwqATlRU_Z0ipwvAP99-BAAIXFWsbKEAgSIJegLmbQWYSAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQeGoDSJAvpkSEoySFfiqBex0_IWdOAAIYFWsbKEAgSMZdKKfzuu2PAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:12",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfeGoLOn-j8-sPEQQdpzwyQ9NkCo5XAAIlHmsbzCBZSJ8lWCVyVxsfAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:49",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhQGoLQzOy48xro2uHYeKikeM3SZdUAAJqHmsbzCBZSFK6EklKKFkWAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:51",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhSGoLQ3RJlBqO6yfKzqS7w3d_M5PKAAJtHmsbzCBZSNOwK92RraiPAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:19",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJp9moOsf0BeT4XDC5wyRNZH8TTL7VhAAK1GWsbG7V4SCRcGkuHHaXiAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00663": {
+    "akb_num": "00663",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:35",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQiGoDSNxI1U6bPIGX-5JlOczatHSyAAIbFWsbKEAgSKHsYQdB27LbAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQh2oDSNxQYnUzul2lazfnKjL3kUG4AAIaFWsbKEAgSDrmwgSl6hcKAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQiGoDSNxI1U6bPIGX-5JlOczatHSyAAIbFWsbKEAgSKHsYQdB27LbAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:14",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfhmoLOs_ehTW5saUws6tkLRJ6wMv8AAImHmsbzCBZSEjnuzFeM_FcAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:50",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhQGoLQzOy48xro2uHYeKikeM3SZdUAAJqHmsbzCBZSFK6EklKKFkWAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:51",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhVmoLQ6H6YBMBXwF71DlYbv4exvIPAAJuHmsbzCBZSDffelLlSnysAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:20",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqAAFqDrI6wD2kMSJGute_qBGkAnjtcQACtxlrGxu1eEg8NW0Zj0PSWQEAAwIAA3kAAzsE"
+      }
+    ]
+  },
+  "00662": {
+    "akb_num": "00662",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:37",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQmGoDSRte3fA6Vd7X3FzksM1ST7lVAAIdFWsbKEAgSOA376sRvVI3AQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQl2oDSRuvZ4BfKYhabOLWsbLykTt1AAIcFWsbKEAgSIjKfmlRFnaEAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQmGoDSRte3fA6Vd7X3FzksM1ST7lVAAIdFWsbKEAgSOA376sRvVI3AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:14",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJflGoLOuUx4kKcK0db5ecPeAz4g8tCAAInHmsbzCBZSNqfaM264MPzAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:50",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhQGoLQzOy48xro2uHYeKikeM3SZdUAAJqHmsbzCBZSFK6EklKKFkWAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:52",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhZGoLQ76_tiVPduKL_I5iGT3weg65AAJvHmsbzCBZSIyWU2NxMHbCAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:21",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqCmoOsntkwgaVIajGIKIcESCUjeWbAAK5GWsbG7V4SHe8TKMMK6ezAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00661": {
+    "akb_num": "00661",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:37",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQqGoDSVDT2xoFNesdwHAwXQn98385AAIgFWsbKEAgSBhHjHILvo38AQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQp2oDSVAlXGpOmzbLaytR3h7qedtPAAIfFWsbKEAgSOHQ_8SUfM32AQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQqGoDSVDT2xoFNesdwHAwXQn98385AAIgFWsbKEAgSBhHjHILvo38AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:14",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfomoLOv3a_1VDFMefmm1Ry1MlaEjTAAIoHmsbzCBZSNJzxFOKMmF4AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:50",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhQGoLQzOy48xro2uHYeKikeM3SZdUAAJqHmsbzCBZSFK6EklKKFkWAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:52",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhcmoLQ-Gy75F8a0MLIp0SQ1IMRA4xAAJwHmsbzCBZSJdZ_9GsY3-1AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:22",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqFGoOspxE2y87K7k_nVy1LScLhS37AALEGWsbG7V4SCqJF1m02RNNAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00101": {
+    "akb_num": "00101",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:39",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQuGoDSZy6u0KH9CnkMIGvghh5rqAbAAIjFWsbKEAgSLKJjXPTIS3TAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQt2oDSZzjNeN5VGep_BQzASyyaBQZAAIiFWsbKEAgSNCW5N1zmOocAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQuGoDSZy6u0KH9CnkMIGvghh5rqAbAAIjFWsbKEAgSLKJjXPTIS3TAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:17",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfsmoLO4cR2SzzFBAPHs5ITvKGDZLAAAIqHmsbzCBZSC6KuGaDe2EhAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:53",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhgmoLQ_2WOMfRkjQc_bE7bBp8U4hLAAJxHmsbzCBZSKoPOAyeEan5AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:54",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhimoLRCwBbH6leCnLM_IQd8v1780DAAJzHmsbzCBZSNwah5LWCdVRAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:24",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqHmoOsx3r_M_UuxB-KxCpEoc6336TAALHGWsbG7V4SE678qpOxL_1AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00611": {
+    "akb_num": "00611",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:40",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQyGoDSgABUxVIHK6wOPm4AS0jjRZKIAACJRVrGyhAIEhP0fJverN_4AEAAwIAA3cAAzsE",
+        "photo1": "AgACAgIAAxkBAAJQx2oDSgAB7nvZd0qU-fSeeKshuH5FbAACJBVrGyhAIEjH7s-B3x1bwgEAAwIAA3cAAzsE",
+        "photo2": "AgACAgIAAxkBAAJQyGoDSgABUxVIHK6wOPm4AS0jjRZKIAACJRVrGyhAIEhP0fJverN_4AEAAwIAA3cAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:18",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJfwmoLO8iwXfZiuI4JTHyruG75Up-TAAIrHmsbzCBZSPorU7HdYmk3AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:53",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhgmoLQ_2WOMfRkjQc_bE7bBp8U4hLAAJxHmsbzCBZSKoPOAyeEan5AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:54",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhmmoLRFeeU2Ygl5lJfLDkqQ0jxXg8AAJ2HmsbzCBZSPWaGpg6dlWiAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:24",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqKGoOszV6B1HoUIph8lpsjrVR9_QBAALIGWsbG7V4SAngv6jbadAYAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00613": {
+    "akb_num": "00613",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:43",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQ2GoDSqebOIcd6VHq9cIx77dyzUlCAAIpFWsbKEAgSAmsSMDwVdeKAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQ12oDSqfyOP1ztr0zdsJG2jZVl3FAAAIoFWsbKEAgSPoZCu4Qyjz2AQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQ2GoDSqebOIcd6VHq9cIx77dyzUlCAAIpFWsbKEAgSAmsSMDwVdeKAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:18",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJf0moLO-GcQEXAbhvGpXiRhwOCjEcQAAIvHmsbzCBZSI11bS2S07laAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:53",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhgmoLQ_2WOMfRkjQc_bE7bBp8U4hLAAJxHmsbzCBZSKoPOAyeEan5AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:55",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhqmoLRG-AMprc7X0O9JvWP1KEOSpKAAJ3HmsbzCBZSLUyqfbcfEEGAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:25",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqMmoOs1hDhYqMBDekp5d4txGHBIfiAALLGWsbG7V4SKwkaLol8Y1dAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01115": {
+    "akb_num": "01115",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:44",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQ6GoDSvZClERqFw7OVukyxT3CFo2cAAItFWsbKEAgSJyZIvZwLO1fAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQ52oDSvZuiyZs7S12rhdfUxVQGGCkAAIsFWsbKEAgSJg9iLyKglgyAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQ6GoDSvZClERqFw7OVukyxT3CFo2cAAItFWsbKEAgSJyZIvZwLO1fAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:19",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJf4moLPBDRstxS4cjldvi3QxLaHpJVAAIyHmsbzCBZSEgqJuaznUTjAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:53",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhgmoLQ_2WOMfRkjQc_bE7bBp8U4hLAAJxHmsbzCBZSKoPOAyeEan5AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:55",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhumoLRIfihklMulBBAq8qy0WaaFwlAAJ5HmsbzCBZSKMEQF6mxjDRAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:25",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqPGoOs3qZrsjPcmlnhezPirlCDxWZAALPGWsbG7V4SFNTibfpQLagAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00645": {
+    "akb_num": "00645",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:46",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJQ-GoDS0aBzw1ATPjgO8bx9gueDuY5AAIyFWsbKEAgSGqkX0wKAValAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJQ92oDS0YIaZJtRl0bUAT1VztaGjROAAIxFWsbKEAgSPVCh05FfDGJAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJQ-GoDS0aBzw1ATPjgO8bx9gueDuY5AAIyFWsbKEAgSGqkX0wKAValAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:21",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJf8moLPHAEUnVm1t-2bC24QXYBOLJRAAI5HmsbzCBZSI_pKc98vRFFAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:56",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhymoLRKPfCYWICy1E3GQPPFYs-bwpAAJ6HmsbzCBZSGbu4YmeCD1BAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:56",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJh0moLRMhzsUm9WUk6CJVH63cYTM9MAAJ9HmsbzCBZSJGh9-GCwLPqAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:27",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqRmoOs8ZbvEtYVe7tachEzX1RVqQ0AALSGWsbG7V4SNWxXZ88PmNdAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01661": {
+    "akb_num": "01661",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 18:59",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRCGoDTmb5EdV2JYE_KvT74d5yGKO7AAJVFWsbKEAgSCr0e6-PcmnxAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRB2oDTmZYzU_YuCj8Rz0FCpyTDKDcAAJUFWsbKEAgSAOsA7y04boKAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJRCGoDTmb5EdV2JYE_KvT74d5yGKO7AAJVFWsbKEAgSCr0e6-PcmnxAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:23",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgAmoLPQjwmrHY2znBRDcAAeRDzPU8mAACPB5rG8wgWUisqi_S7Shd7QEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:56",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhymoLRKPfCYWICy1E3GQPPFYs-bwpAAJ6HmsbzCBZSGbu4YmeCD1BAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:57",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJh5GoLROQ9I2qKDQx7du8kt-UaS-5fAAJ-HmsbzCBZSOrxApDYMGsCAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:33",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqjWoOtTVOQN8p06T5dgVq--DP5ZbjAALcGWsbG7V4SETpCl-S28DZAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00980": {
+    "akb_num": "00980",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 19:01",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRGGoDTtik0ehvBA2l_AW-uWyON8mcAAJYFWsbKEAgSPGhVtsFmc3zAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRF2oDTth-372YzyfyBTo0YbffiNR9AAJXFWsbKEAgSLnRzsxbX9Y5AQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJRGGoDTtik0ehvBA2l_AW-uWyON8mcAAJYFWsbKEAgSPGhVtsFmc3zAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:25",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgH2oLPWvx6Zz7hLgGOZCbIsjMk1T_AAJAHmsbzCBZSKDxswwunuUoAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:56",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhymoLRKPfCYWICy1E3GQPPFYs-bwpAAJ6HmsbzCBZSGbu4YmeCD1BAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:57",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJh9moLRP-JEnYRjvxnZgWavz_Gso6oAAJ_HmsbzCBZSAmpuHoROJcQAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:28",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqUGoOtAM5YdUDIiuiyClh3NX0O892AALVGWsbG7V4SDOzAAGiwwgBNQEAAwIAA3kAAzsE"
+      }
+    ]
+  },
+  "00886": {
+    "akb_num": "00886",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 19:03",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRLGoDT1PcKfgBIOfsaQLdarjkQWI6AAJkFWsbKEAgSMjdQG3NO5GNAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRK2oDT1M5OBJCMMQymD-bTp5TEmfxAAJjFWsbKEAgSCyZGslFzBOSAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJRLGoDT1PcKfgBIOfsaQLdarjkQWI6AAJkFWsbKEAgSMjdQG3NO5GNAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:25",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgMWoLPYrIOtK5RJGhK9ONJvQuV6EGAAJDHmsbzCBZSGakZn8OTUwrAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:56",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJhymoLRKPfCYWICy1E3GQPPFYs-bwpAAJ6HmsbzCBZSGbu4YmeCD1BAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:58",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiCGoLRSo3NBu2n5h11ezO6pc7hJxvAAKBHmsbzCBZSGFoF3KzEK8CAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:28",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqWmoOtDbymSY6tsALlDj3IIZPksvyAALWGWsbG7V4SM61QamaNS5nAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00646": {
+    "akb_num": "00646",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 19:07",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRPGoDT7HwQjx_Re5F3wfenN0maUE5AAJqFWsbKEAgSP3fny3YjpAUAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRO2oDT7Fu1R2cUCt3HjeA5LSYT9e3AAJpFWsbKEAgSMOYU8rej1dQAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJRPGoDT7HwQjx_Re5F3wfenN0maUE5AAJqFWsbKEAgSP3fny3YjpAUAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:27",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgUWoLPfn0j82LYM6gaY7dDD0_0KVTAAJHHmsbzCBZSFFdWG0QvyVcAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:58",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiGmoLRT7cXdTTGJPlEFRMUQdh6s21AAKCHmsbzCBZSDUjhIiL13TyAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:59",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiImoLRVmYoZW_b9y0pJvdlgMoSDM1AAKDHmsbzCBZSN1FSUyJ9TmJAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:30",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqeGoOtKCvwSg_uf5wNi9jaj8-_4uuAALZGWsbG7V4SEh3UFwDG8t2AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01922": {
+    "akb_num": "01922",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 19:09",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRTGoDUJ17LjDJ6zEwzDvWZ3fRkHCzAAJzFWsbKEAgSNpe58yL_QYaAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRS2oDUJ0W96HYcFnhQu20N-naNPKzAAJyFWsbKEAgSFAz5gABeiWApQEAAwIAA3cAAzsE",
+        "photo2": "AgACAgIAAxkBAAJRTGoDUJ17LjDJ6zEwzDvWZ3fRkHCzAAJzFWsbKEAgSNpe58yL_QYaAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:28",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgY2oLPhbTT7igCKG3rZpewMeyId36AAJJHmsbzCBZSBbg2tDwq72zAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:58",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiGmoLRT7cXdTTGJPlEFRMUQdh6s21AAKCHmsbzCBZSDUjhIiL13TyAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 19:59",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiNGoLRXdjMiXJdWFPeS1sg07Wln0eAAKFHmsbzCBZSF7TBN9P4lxjAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:31",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqg2oOtOblpIFZm4a-OO18qe8GDICcAALbGWsbG7V4SCJzFV6kYKyQAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "00665": {
+    "akb_num": "00665",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 19:10",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRXGoDUPXFSB9xC4DErd6DZem1L0wcAAJ2FWsbKEAgSNxSZeN5a9bKAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRW2oDUPUAAf35X1sBZxUuUMX8HwsM0gACdRVrGyhAIEiqmO3mXU4obgEAAwIAA3cAAzsE",
+        "photo2": "AgACAgIAAxkBAAJRXGoDUPXFSB9xC4DErd6DZem1L0wcAAJ2FWsbKEAgSNxSZeN5a9bKAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:28",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgdWoLPjCepXdVfhSrbZKQYJVf5no6AAJKHmsbzCBZSIRbpE-EV3EXAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:58",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiGmoLRT7cXdTTGJPlEFRMUQdh6s21AAKCHmsbzCBZSDUjhIiL13TyAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 20:00",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiSGoLRZQBNzM-oaV_CtIAAQ1J_bc20gAChx5rG8wgWUgclfZDioRC_AEAAwIAA3cAAzsE"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:29",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqZGoOtGgf5qCDfdESkvXV5yhuOrZUAALXGWsbG7V4SEyp7RCFGQxQAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01977": {
+    "akb_num": "01977",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "12.05.2026 19:12",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJRa2oDUWEfolvgDlHqvXxn1sh03BKNAAJ6FWsbKEAgSKfo6ZyZ9jKrAQADAgADdwADOwQ",
+        "photo1": "AgACAgIAAxkBAAJRa2oDUWEfolvgDlHqvXxn1sh03BKNAAJ6FWsbKEAgSKfo6ZyZ9jKrAQADAgADdwADOwQ",
+        "photo2": "AgACAgIAAxkBAAJRa2oDUWEfolvgDlHqvXxn1sh03BKNAAJ6FWsbKEAgSKfo6ZyZ9jKrAQADAgADdwADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "18.05.2026 19:29",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJgjGoLPl8Ll9-8DE90Ig9qAAE7CKD8ewACTB5rG8wgWUj30qlAxPtWJQEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "18.05.2026 19:58",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiGmoLRT7cXdTTGJPlEFRMUQdh6s21AAKCHmsbzCBZSDUjhIiL13TyAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "18.05.2026 20:00",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJiXGoLRbabz6zc_NOAvir5YodKSzfVAAKJHmsbzCBZSOMK6ZuITQs1AQADAgADdwADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "21.05.2026 10:30",
+        "user": "Артур",
+        "user_id": 6516682107,
+        "photo": "AgACAgIAAxkBAAJqbmoOtIRuplypCFmbjQdmollN_nogAALYGWsbG7V4SOELFCqRteSQAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01494": {
+    "akb_num": "01494",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "14.05.2026 16:56",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJVtWoF1DcvDrms0fSAr0mGjVjRO-MoAALYFmsb0EcwSMR-Sb8CSX2RAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJVtWoF1DcvDrms0fSAr0mGjVjRO-MoAALYFmsb0EcwSMR-Sb8CSX2RAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJVtWoF1DcvDrms0fSAr0mGjVjRO-MoAALYFmsb0EcwSMR-Sb8CSX2RAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 16:57",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJVvWoF1LQhfalnV-_HECuw01Yq-IgsAAKDFmsbpc4oSP8AAaXRAn4ViwEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 17:14",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJWCmoF10_WRep5yRDmARcXZ003crpNAAL5Fmsb0EcwSPBq_RyJ3UdWAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01492": {
+    "akb_num": "01492",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "14.05.2026 16:59",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJVyWoF1Shn-VaPybl9GjPJqa1fh0cXAALeFmsb0EcwSN9t-iWms69KAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJVyWoF1Shn-VaPybl9GjPJqa1fh0cXAALeFmsb0EcwSN9t-iWms69KAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJVyWoF1Shn-VaPybl9GjPJqa1fh0cXAALeFmsb0EcwSN9t-iWms69KAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 17:00",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJVz2oF1WM04NveoQRdkouB9U2RhIj9AAKFFmsbpc4oSNp43bS4r3MWAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 17:14",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJWCmoF10_WRep5yRDmARcXZ003crpNAAL5Fmsb0EcwSPBq_RyJ3UdWAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "01291": {
+    "akb_num": "01291",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "14.05.2026 17:02",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJV3moF1c09RoKbPaBNVaJpfWfS1p_JAALiFmsb0EcwSNy3i3kg9a3lAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJV3moF1c09RoKbPaBNVaJpfWfS1p_JAALiFmsb0EcwSNy3i3kg9a3lAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJV3moF1c09RoKbPaBNVaJpfWfS1p_JAALiFmsb0EcwSNy3i3kg9a3lAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 17:14",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJV6moF1hGhiv1OipTIn2MiNA0iL29pAAKEFmsbpc4oSEjIW3rVGqkzAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 17:14",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJWCmoF10_WRep5yRDmARcXZ003crpNAAL5Fmsb0EcwSPBq_RyJ3UdWAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "🔄 Активнi роботи": {
+    "akb_num": "🔄 Активнi роботи",
+    "stages": []
+  },
+  "01294": {
+    "akb_num": "01294",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "14.05.2026 17:12",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJWS2oF2FechnQJeo2btgq53l9IJc-ZAAL8Fmsb0EcwSCQMMNE52BavAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJWS2oF2FechnQJeo2btgq53l9IJc-ZAAL8Fmsb0EcwSCQMMNE52BavAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJWS2oF2FechnQJeo2btgq53l9IJc-ZAAL8Fmsb0EcwSCQMMNE52BavAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "14.05.2026 17:13",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJV5moF1fsxcUq2B3yVOEKIqyUjvgUZAAKGFmsbpc4oSPamfm9e9XCSAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "14.05.2026 17:14",
+        "user": "Sergei",
+        "user_id": 862427096,
+        "photo": "AgACAgIAAxkBAAJWCmoF10_WRep5yRDmARcXZ003crpNAAL5Fmsb0EcwSPBq_RyJ3UdWAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "00630": {
+    "akb_num": "00630",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "15.05.2026 14:20",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJYAAFqBwGO5lXMqpEWJukresk7lt_KkAACuxVrG91fOEiT2fXkgFFRtAEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAJX_2oHAY7G3kJy7kXUJBP-vhwkT9W8AAK6FWsb3V84SCNAsnR5PhdHAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJYAAFqBwGO5lXMqpEWJukresk7lt_KkAACuxVrG91fOEiT2fXkgFFRtAEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "15.05.2026 14:25",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJYBWoHApLiSnonSILs0JPYzOSdogN7AALCFWsb3V84SPsDdiH4ffJiAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "19.05.2026 22:38",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJYBWoHApLiSnonSILs0JPYzOSdogN7AALCFWsb3V84SPsDdiH4ffJiAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "19.05.2026 22:39",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJlkWoMvG6CICai4KtTF6UbJmpt8As2AAKqH2sbud1hSH9EBVPp-_mdAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "19.05.2026 22:40",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJlmGoMvJwZr5YZe7WV6q3BNGqLhXqgAAKrH2sbud1hSK56QfeoDlYBAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "19.05.2026 22:41",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "video": "BAACAgIAAxkBAAJlomoMvOpA_oxte-ykLkO42975hnWXAAJvmAACud1hSNEGnXjxDhegOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "603183V2A501927": {
+    "akb_num": "603183V2A501927",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 09:08",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJdpWoKrOQUvHF5xzuLl0njCLzKOe-VAAKrGmsbs2xYSNo3R6kJWjaIAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJdo2oKrKgdgcTJA0-GQk-1fgI62zC6AAKoGmsbs2xYSHgWFEKt1Iw4AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJdpWoKrOQUvHF5xzuLl0njCLzKOe-VAAKrGmsbs2xYSNo3R6kJWjaIAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 19:01",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJn-GoN2u1GznpE5rFn80MepYmmWDAjAAJ1HWsbs6RwSF0RseGhE4e0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "20.05.2026 19:04",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoImoN23sua73WXqMGOycTLpiiLtNlAAJ7HWsbs6RwSKRK7vDy1S3-AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A501216": {
+    "akb_num": "603183V2A501216",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 09:17",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJds2oKrwGjk1DuOokicQHFaXXSEWNqAAKxGmsbs2xYSEJ9XCzDsAX3AQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJdsWoKrs0CiGfcSbnT1mErNqSVOeewAAKwGmsbs2xYSHSYzg9GmMEEAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJds2oKrwGjk1DuOokicQHFaXXSEWNqAAKxGmsbs2xYSEJ9XCzDsAX3AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 19:02",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoAmoN2wuJBg15bS76H9c46f_OPzfOAAJ2HWsbs6RwSPci-eeMKdc2AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "20.05.2026 19:04",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoImoN23sua73WXqMGOycTLpiiLtNlAAJ7HWsbs6RwSKRK7vDy1S3-AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A502454": {
+    "akb_num": "603183V2A502454",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:15",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJd1moK2J1qGe5PUsv5tsHmBnf9nrusAAIMGmsb-JVYSMoS_043QSPJAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJd0GoK2HI3o8uh47pOH5i7XHGkWf0lAAILGmsb-JVYSBoo8Xx9y0UDAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJd1moK2J1qGe5PUsv5tsHmBnf9nrusAAIMGmsb-JVYSMoS_043QSPJAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:20",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJq6GoOwDosRyU-tiDQIUITEzPzNHXnAAJYGmsbZKN5SIR8-1JIegzSAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrWmoOwSY3IeQ0DaMnro4bZRllLDBDAAJiGmsbZKN5SMga6C7Xrl_yAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "603183V2A502337": {
+    "akb_num": "603183V2A502337",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:16",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJd3GoK2NgQ_2yBjzmWTf8eErCPiLMnAAK-GGsbu59YSChCk4czDeFMAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJd1GoK2Jj1wwIRX-SDWh8-v2gzDc77AAK8GGsbu59YSPAL6uHNi9F2AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJd3GoK2NgQ_2yBjzmWTf8eErCPiLMnAAK-GGsbu59YSChCk4czDeFMAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 10:36",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJql2oOtg0LWWKvzw89uI9Qh6_hs96CAAIqGWsb_LRwSDTg_ef1TEb8AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 10:39",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqnWoOtjHgguPWDm0M78_v8ZmWD3jHAAIsGWsb_LRwSOLI1h5YKCKtAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A501358": {
+    "akb_num": "603183V2A501358",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:20",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJd_GoK2cphEKyDuReqn-GTYS3yEiNAAAIXGmsb-JVYSNuHkEd1ewhzAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJd-moK2Zx-tBwlwNyeAAEDWpo5HyC7SwACFhprG_iVWEh39VYvRNTPKAEAAwIAA3kAAzsE",
+        "photo2": "AgACAgIAAxkBAAJd_GoK2cphEKyDuReqn-GTYS3yEiNAAAIXGmsb-JVYSNuHkEd1ewhzAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:20",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJq9WoOwEhMhz0aw_u0WIndVRU6RzsKAAJaGmsbZKN5SDD4fkjqp0TwAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrWmoOwSY3IeQ0DaMnro4bZRllLDBDAAJiGmsbZKN5SMga6C7Xrl_yAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "603183V2A501648": {
+    "akb_num": "603183V2A501648",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:23",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJeHGoK2qR0j2TwnhDcWUyq__6gnEAYAAIbGmsb-JVYSFE8ru7SAAH7KwEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAJeGmoK2novzfCrVpGAwwX8IeD_TyqAAAIaGmsb-JVYSP-tn6OODBxcAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeHGoK2qR0j2TwnhDcWUyq__6gnEAYAAIbGmsb-JVYSFE8ru7SAAH7KwEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:20",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrBmoOwGCLN33fWplnO1ewclu3PmzpAAJbGmsbZKN5SNFFEG_F9vgZAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:21",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrEWoOwHGvmTjAEV4i2Pal_7ZJJfPRAAJdGmsbZKN5SGeeyKDn8Kz5AQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "603183V2A500213": {
+    "akb_num": "603183V2A500213",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:27",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJeKmoK22it6MlePN2C8mP0dlxJFhPgAAIfGmsb-JVYSMfkRo9dQnSjAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJeKGoK20g4wn7Pz0yIUn6zDIQMeH2BAAIeGmsb-JVYSC-cH9m4Rct3AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeKmoK22it6MlePN2C8mP0dlxJFhPgAAIfGmsb-JVYSMfkRo9dQnSjAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:21",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrKGoOwJbR7PBlC-G-HY8XdOzN4uAdAAJeGmsbZKN5SAuNkwhJuOMhAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrWmoOwSY3IeQ0DaMnro4bZRllLDBDAAJiGmsbZKN5SMga6C7Xrl_yAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "603183V2A502463": {
+    "akb_num": "603183V2A502463",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:32",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJeQGoK3K7GTBS8J1foAVCwSeFmyAABVAACIxprG_iVWEiBM4EK3cR1igEAAwIAA3kAAzsE",
+        "photo1": "AgACAgIAAxkBAAJePGoK3IP4IMWhxXq85evhoo_Ss01CAAIiGmsb-JVYSKKUCiRVdVTqAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeQGoK3K7GTBS8J1foAVCwSeFmyAABVAACIxprG_iVWEiBM4EK3cR1igEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:22",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrOmoOwKcpw4kgP5zhMuKJjrABAYNDAAJfGmsbZKN5SJUBr2feUfB-AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:24",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrWmoOwSY3IeQ0DaMnro4bZRllLDBDAAJiGmsbZKN5SMga6C7Xrl_yAQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "603183V2A501744": {
+    "akb_num": "603183V2A501744",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:32",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJeRGoK3L5spmCp4a1TRBxFt-SX5nHlAAL3GGsbu59YSKaAk382GCKZAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJePmoK3I6fRZQWkY7Tgwvt3bHjPGhrAALmGGsbu59YSGSPYTL2bhv2AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeRGoK3L5spmCp4a1TRBxFt-SX5nHlAAL3GGsbu59YSKaAk382GCKZAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 10:38",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqrGoOtlmLMduAE7xgoooT6Lt7y9hVAAItGWsb_LRwSAQglEqSRmk9AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 10:39",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqnWoOtjHgguPWDm0M78_v8ZmWD3jHAAIsGWsb_LRwSOLI1h5YKCKtAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A902080": {
+    "akb_num": "603183V2A902080",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:37",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJeYGoK3cOcP7pRTMQaMKsDZOUhjSA0AAI3Gmsb-JVYSCD0C3vfvYabAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJeXmoK3Z9RUR0a85NKJTvv5KLDKf1gAAI2Gmsb-JVYSMpdRfyf2imIAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeYGoK3cOcP7pRTMQaMKsDZOUhjSA0AAI3Gmsb-JVYSCD0C3vfvYabAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:22",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrSGoOwLPz8mUmeqCLIQKpUHjQQw7yAAJgGmsbZKN5SPXfUKo4X9J2AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:23",
+        "user": "Kaatastroffaa",
+        "user_id": 575590315,
+        "photo": "AgACAgIAAxkBAAJrEWoOwHGvmTjAEV4i2Pal_7ZJJfPRAAJdGmsbZKN5SGeeyKDn8Kz5AQADAgADdwADOwQ"
+      }
+    ]
+  },
+  "603183V2A502047": {
+    "akb_num": "603183V2A502047",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:48",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJecmoK4Ce5s6N3mWpT5XCWKBjwe3FfAAI5GWsbu59YSBVvZg-3yBOkAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJed2oK4FOlJz0wjnMMjsxvLLUNk9RFAAI6GWsbu59YSOUwejRCQvPxAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJecmoK4Ce5s6N3mWpT5XCWKBjwe3FfAAI5GWsbu59YSBVvZg-3yBOkAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 10:38",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqtmoOtnHBumCYC_agMJtOZzm9XcoMAAIvGWsb_LRwSLuMcNy5Pl7mAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 10:39",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqnWoOtjHgguPWDm0M78_v8ZmWD3jHAAIsGWsb_LRwSOLI1h5YKCKtAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A500387": {
+    "akb_num": "603183V2A500387",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:49",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJehGoK4JQ-pIfnJcVMhX3PVKFtDpCDAALmG2sbs2xYSJ3QNdPJ11WsAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJeemoK4FkNEsZfOLqSP-VEmAxIx-U3AALlG2sbs2xYSP-v-gXKMeZtAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJehGoK4JQ-pIfnJcVMhX3PVKFtDpCDAALmG2sbs2xYSJ3QNdPJ11WsAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 19:03",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoCmoN2x0j9d-8_6D15t2rZP4_7fbWAAJ3HWsbs6RwSJOBammStwfsAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "20.05.2026 19:04",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoImoN23sua73WXqMGOycTLpiiLtNlAAJ7HWsbs6RwSKRK7vDy1S3-AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A500425": {
+    "akb_num": "603183V2A500425",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 12:53",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJekmoK4bL4DVHVuCbJRFVrX6r_Zl1nAAL1G2sbs2xYSD23OaOm2sMvAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJekGoK4YBKM4l7yCDOO3_1El6FThmtAALuG2sbs2xYSJHMA0jwhkzQAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJekmoK4bL4DVHVuCbJRFVrX6r_Zl1nAAL1G2sbs2xYSD23OaOm2sMvAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "20.05.2026 19:03",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoGGoN21q-rpBApXUbZrknvumgLRhsAAJ6HWsbs6RwSM4nz_8zUntlAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "20.05.2026 19:04",
+        "user": "Alex",
+        "user_id": 339788686,
+        "photo": "AgACAgIAAxkBAAJoImoN23sua73WXqMGOycTLpiiLtNlAAJ7HWsbs6RwSKRK7vDy1S3-AQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A500207": {
+    "akb_num": "603183V2A500207",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 13:01",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJeoGoK43f6qv3oOzczi5S_5R3rsrXuAAJkGWsbu59YSIVix_bnUdusAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJenmoK41KBWplpZGmyYCjW2L7NtYiTAAJfGWsbu59YSM2xgXHUTNejAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeoGoK43f6qv3oOzczi5S_5R3rsrXuAAJkGWsbu59YSIVix_bnUdusAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 10:38",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqrGoOtlmLMduAE7xgoooT6Lt7y9hVAAItGWsb_LRwSAQglEqSRmk9AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 10:39",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJqnWoOtjHgguPWDm0M78_v8ZmWD3jHAAIsGWsb_LRwSOLI1h5YKCKtAQADAgADeQADOwQ"
+      }
+    ]
+  },
+  "603183V2A901844": {
+    "akb_num": "603183V2A901844",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 13:28",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJetGoK6eLCxhMEhcm3-DXLxuqdIc9kAAKCGWsbu59YSPIgF3_ZhW3QAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJesmoK6ZvZvy66cZRJH9jVIdXhPWibAAKBGWsbu59YSEHtnVysOHrJAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJetGoK6eLCxhMEhcm3-DXLxuqdIc9kAAKCGWsbu59YSPIgF3_ZhW3QAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:20",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJq4moOwDS00HQeCa1xn0EsR6S3IlJyAAJhGWsb_LRwSNGCmWdOAsY0AQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:21",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJrDGoOwGbyZ97XuxUXpzTmWFqu_XF1AAJjGWsb_LRwSDMxywABLi-6wwEAAwIAA3kAAzsE"
+      }
+    ]
+  },
+  "603183V2A901834": {
+    "akb_num": "603183V2A901834",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "18.05.2026 13:41",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJeyGoK7LscpHUunopvOGslS7edAAF6LQAClxlrG7ufWEidubRg3sReAAEBAAMCAAN5AAM7BA",
+        "photo1": "AgACAgIAAxkBAAJexmoK7HWwk2tcjL0-DZADs8SezUrtAAKUGWsbu59YSAGq0TYkNXMjAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJeyGoK7LscpHUunopvOGslS7edAAF6LQAClxlrG7ufWEidubRg3sReAAEBAAMCAAN5AAM7BA"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "21.05.2026 11:20",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJrAAFqDsBX4j7aSV2pFrxLEyXuxHMcvgACYhlrG_y0cEj-0DZYBwUjcwEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "21.05.2026 11:20",
+        "user": "Kolya F",
+        "user_id": 5579355563,
+        "photo": "AgACAgIAAxkBAAJrDGoOwGbyZ97XuxUXpzTmWFqu_XF1AAJjGWsb_LRwSDMxywABLi-6wwEAAwIAA3kAAzsE"
+      }
+    ]
+  },
+  "01083": {
+    "akb_num": "01083",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "19.05.2026 22:42",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJltmoMvTxwUNT2VgsugtAF8_GOneUHAAKuH2sbud1hSOFHERUBK5RbAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJlsGoMvR_6it69dCxL46txAQiqrkzkAAKtH2sbud1hSKK8yfIytXHmAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJltmoMvTxwUNT2VgsugtAF8_GOneUHAAKuH2sbud1hSOFHERUBK5RbAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "19.05.2026 22:43",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJlu2oMvUrw1vqEDqPeuSlHf0X_Y_GbAAIxHmsbJC5JSCNeMqPXMzyOAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "19.05.2026 22:43",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJlu2oMvUrw1vqEDqPeuSlHf0X_Y_GbAAIxHmsbJC5JSCNeMqPXMzyOAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "19.05.2026 22:44",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJlzGoMvYF-X9yYXg3LWMBklq3IpCQUAAKvH2sbud1hSD0PiUm_lwsGAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "19.05.2026 22:44",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJlzGoMvYF-X9yYXg3LWMBklq3IpCQUAAKvH2sbud1hSD0PiUm_lwsGAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "19.05.2026 22:45",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "video": "BAACAgIAAxkBAAJl2moMvdGU9DU3vZNI30ANDr8lv-RfAAJ-mAACud1hSAw7mh64qYsOOwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "01930": {
+    "akb_num": "01930",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "19.05.2026 22:46",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJl8GoMvhh4ryrGKpxp4vVDcnCFo-DCAAKzH2sbud1hSPrxU4_bc5nkAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJl6moMvfbHLY9XrbIiiWyXXLd63go2AAKxH2sbud1hSAh-75de83G0AQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJl8GoMvhh4ryrGKpxp4vVDcnCFo-DCAAKzH2sbud1hSPrxU4_bc5nkAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "19.05.2026 22:46",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJl92oMvifRMy_IjNTPCHpng9WVlDrjAAIwHmsbJC5JSD5uGVsm9RQKAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "19.05.2026 22:47",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJl92oMvifRMy_IjNTPCHpng9WVlDrjAAIwHmsbJC5JSD5uGVsm9RQKAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "19.05.2026 22:48",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmBWoMvnKfBtpcAAFvrH0Oh381BHLdwQACux9rG7ndYUjFGkaqeUrlQgEAAwIAA3kAAzsE"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "19.05.2026 22:48",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmC2oMvoPokVcsQdXC5J5oYlh0tT8OAAK8H2sbud1hSM8Y_eFxRbjPAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "19.05.2026 22:49",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "video": "BAACAgIAAxkBAAJmEmoMvsTAcK_zOY-IZ3k00nfD79nQAAKPmAACud1hSFGp9afNH7t8OwQ",
+        "checklist": {}
+      }
+    ]
+  },
+  "00498": {
+    "akb_num": "00498",
+    "stages": [
+      {
+        "stage": "1️⃣ Прийом елементiв",
+        "date": "19.05.2026 22:50",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmHmoMvubtvZE35GuRstUdi2jV51yrAAK9H2sbud1hSLIK4vHPvXVNAQADAgADeQADOwQ",
+        "photo1": "AgACAgIAAxkBAAJmH2oMvuaUI_z-EmgqTIGptSB470qdAAK-H2sbud1hSD0aP8Oz0CXmAQADAgADeQADOwQ",
+        "photo2": "AgACAgIAAxkBAAJmHmoMvubtvZE35GuRstUdi2jV51yrAAK9H2sbud1hSLIK4vHPvXVNAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "2️⃣ Замiр опору",
+        "date": "19.05.2026 22:50",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmLGoMvw3AecwvvwtbMxRE6an5GsJmAAIvHmsbJC5JSIieJqu110AuAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "3️⃣ Звiт опорiв четвiрки",
+        "date": "19.05.2026 22:50",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmLGoMvw3AecwvvwtbMxRE6an5GsJmAAIvHmsbJC5JSIieJqu110AuAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "4️⃣ Дата та запакування",
+        "date": "19.05.2026 22:51",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmOmoMvyy9CcDCA_8yW7iQbEC3Q5C6AAK_H2sbud1hSP0IzvuID_-EAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "5️⃣ Готовий АКБ",
+        "date": "19.05.2026 22:51",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "photo": "AgACAgIAAxkBAAJmQGoMvzxRMBwHHE2smjD2Y6_DOzt2AALAH2sbud1hSByvGbTkQMmFAQADAgADeQADOwQ"
+      },
+      {
+        "stage": "6️⃣ Контроль якостi",
+        "date": "19.05.2026 22:52",
+        "user": "Василь",
+        "user_id": 7559896475,
+        "video": "BAACAgIAAxkBAAJmR2oMv2QtQcuEhP6nS5uXcf8Cd5_vAAKZmAACud1hSMr4LVx80AgrOwQ",
+        "checklist": {}
+      }
+    ]
+  }
+}
