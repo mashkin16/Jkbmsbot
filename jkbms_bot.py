@@ -5266,6 +5266,19 @@ async def daily_reminder_loop(app):
                     except: pass
         except: pass
 
+async def web_server():
+    from aiohttp import web
+    app = web.Application()
+    async def handle(request):
+        return web.Response(text="OK")
+    app.router.add_get("/", handle)
+    port = int(os.environ.get("PORT", 8080))
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, "0.0.0.0", port)
+    await site.start()
+    print(f"Web server started on port {port}")
+
 def main():
     print("VoltForge BMS v15.1 zapushen!")
     from telegram.ext import ApplicationBuilder
@@ -5280,6 +5293,7 @@ def main():
     async def post_init(application):
         import asyncio
         asyncio.create_task(daily_reminder_loop(application))
+        asyncio.create_task(web_server())
 
     app.post_init = post_init
     app.run_polling(drop_pending_updates=True)
